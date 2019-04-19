@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'roboto';
+  font-style: normal;
+  font-weight: normal;
+  src: local('roboto'), url('roboto') format('ttf');
+}
+
+h1 {
+  font-family: 'roboto', cursive;
+  font-weight: 200;
+  color: #0ccac4;
+}
